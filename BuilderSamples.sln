@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderFoodSample", "OrderFoodSample\OrderFoodSample.csproj", "{9DE8D533-96D7-41F1-B02E-BEAE9E3CCC7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HubConnectionBuilderSample", "HubConnectionBuilderSample\HubConnectionBuilderSample.csproj", "{F1C4ACAB-7341-45FA-AC00-02FAE5B61DDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DE8D533-96D7-41F1-B02E-BEAE9E3CCC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE8D533-96D7-41F1-B02E-BEAE9E3CCC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE8D533-96D7-41F1-B02E-BEAE9E3CCC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE8D533-96D7-41F1-B02E-BEAE9E3CCC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C4ACAB-7341-45FA-AC00-02FAE5B61DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C4ACAB-7341-45FA-AC00-02FAE5B61DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C4ACAB-7341-45FA-AC00-02FAE5B61DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C4ACAB-7341-45FA-AC00-02FAE5B61DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
